@@ -91,8 +91,8 @@ DROP COLUMN row_num;
 * The cleaned table modified_layoffs2:
 * Contains only distinct records
 * Has consistent and normalized fields
-* Uses proper NULL values for missing data
-* Stores dates in DATE format
+* Uses proper `NULL` values for missing data
+* Stores dates in `DATE` format
 * Is ready for downstream analysis or visualization
 
 
